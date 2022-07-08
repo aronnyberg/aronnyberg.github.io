@@ -1,2 +1,2 @@
 # aronnyberg.github.io
-html page for eventual public consumption
+html page for public consumption
